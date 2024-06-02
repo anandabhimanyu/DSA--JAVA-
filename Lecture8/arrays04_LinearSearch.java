@@ -1,6 +1,6 @@
 package Lecture8;
 
-public class arrays_LinearSearch {
+public class arrays04_LinearSearch {
     public static void main(String[] args) {
         int[] arr = {3,5,1,7,8};
         int item = 7;
